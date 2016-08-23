@@ -11,3 +11,7 @@ This work was published in eLife in Aug 2016: https://elifesciences.org/content/
 Please cite our paper if you use this code.<br />
 "A hyperspectral method to assay the microphysiological fates of nanomaterials in histological samples".<br />
 ED SoRelle, O Liba, JL Campbell, R Dalal, CL Zavaleta, A Zerda, eLife, 2016
+
+<br/>
+Note: the code is based on images acquired on a Cytpviva microscope that uses Envi for hyperspectral imaging.<br />
+This project includes Envi reading code from Matlab File Exchange:<br /> https://www.mathworks.com/matlabcentral/fileexchange/27172-envi-file-reader-writer
