@@ -13,5 +13,5 @@ Please cite our paper if you use this code.<br />
 ED SoRelle, O Liba, JL Campbell, R Dalal, CL Zavaleta, A Zerda, eLife, 2016
 
 <br/>
-Note: the code is based on images acquired on a Cytpviva microscope that uses Envi for hyperspectral imaging.<br />
+Note: the code is based on images acquired on a [Cytoviva](http://www.cytoviva.com/) microscope that uses Envi for hyperspectral imaging.<br />
 This project includes Envi reading code from Matlab File Exchange:<br /> https://www.mathworks.com/matlabcentral/fileexchange/27172-envi-file-reader-writer
