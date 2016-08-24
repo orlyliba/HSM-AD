@@ -5,7 +5,7 @@ Nanoparticles are used extensively as biomedical imaging probes and potential th
 <br />
 
 ![](https://cloud.githubusercontent.com/assets/19598320/17883743/2a9c9188-68c9-11e6-9729-f41b902d5dcf.jpg)<br />
-Image shows, from left to right: bright field microscopy image of stained section, dark-field microscopy, hyperscpectral microscopy, detection of the nanoparticles, shown in orange.<br />
+Image shows, from left to right: bright field microscopy image of stained section, dark-field microscopy, hyperspectral microscopy, detection of the nanoparticles, shown in orange.<br />
 <br />
 This work was published in eLife in Aug 2016: https://elifesciences.org/content/5/e16352.<br />
 Please cite our paper if you use this code.<br />
